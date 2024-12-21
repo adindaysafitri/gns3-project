@@ -2,10 +2,9 @@
     <p><strong>Project:</strong> gns3-project</p>
     <p><strong>Created on:</strong> 2024-10-29</p>
     <p><strong>Author:</strong> Adinda Yulia Safitri (<a href="mailto:adindaysafitri@gmai.com">adindaysafitri@gmail.com</a>)</p>
-    
-<img src="topology.png" alt="Topology Diagram" style="width:100%; max-width:600px; display:block; margin:auto;">
 
 <h2>Topology Overview</h2>
+<img src="topology.png" alt="Topology Diagram" style="width:100%; max-width:600px; display:block; margin:auto;">
     <ul>
         <li><strong>Jenis Topologi:</strong>
             <ul>
